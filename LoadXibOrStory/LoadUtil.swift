@@ -11,7 +11,7 @@ import UIKit
 public class LoadUtil: NSObject {
     
     static let bundle = NSBundle(forClass: LoadUtil.self);
-    static let nibName = "MainViewController";
+    static let nibName = "Main";
     
     /**
       * 加载Storyboard布局
