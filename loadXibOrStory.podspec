@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
     s.name         = "LoadXibOrStory"
-    s.version      = "0.0.1"
+    s.version      = "0.0.2"
     s.summary      = '测试加载xib和storyboard文件'
     s.homepage     = "https://github.com/panyaorui/LoadXibOrStoryboard"
     s.license      = 'MIT'
